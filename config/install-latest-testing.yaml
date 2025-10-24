@@ -88144,6 +88144,8 @@ rules:
     resourceNames:
       - kyverno-cleanup-controller.kyverno.svc.kyverno-tls-ca
       - kyverno-cleanup-controller.kyverno.svc.kyverno-tls-pair
+      - kyverno-cleanup-controller.kyverno.metering.kyverno-tls-ca
+      - kyverno-cleanup-controller.kyverno.metering.kyverno-tls-pair
   - apiGroups:
       - ''
     resources:
